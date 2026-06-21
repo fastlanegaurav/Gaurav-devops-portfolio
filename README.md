@@ -2,13 +2,13 @@
 
 Modern cloud-native DevOps portfolio showcasing scalable infrastructure engineering, Kubernetes orchestration, CI/CD automation, and AWS cloud architecture.
 
-## 🌐 Live Demo
+### 🌐 Live Demo
 
 https://gaurav-portfolio-navy.vercel.app/
 
 --
 
-## 🚀 Overview
+##🚀 Overview
 
 This portfolio was designed and developed to represent a production-grade DevOps Engineer profile with a focus on:
 
@@ -24,7 +24,7 @@ The project combines premium UI engineering with real-world DevOps architecture 
 
 ---
 
-## ✨ Key Features
+### ✨ Key Features
 
 * Fully responsive premium UI
 * Interactive DevOps orbit animations
